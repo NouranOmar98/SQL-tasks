@@ -55,3 +55,4 @@ Join Product On Orders.OrderID = Product.OrderID;
 
 Select * from Orders
 Right Join Product On Orders.OrderID = Product.OrderID;
+

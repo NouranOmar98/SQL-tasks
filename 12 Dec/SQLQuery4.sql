@@ -1,4 +1,3 @@
-
 create table customers(
 id int primary key,
 firstname char (20) not null,
@@ -40,3 +39,4 @@ select * from customers;
 select * from orders;
 select * from product;
 select * from employee;
+
