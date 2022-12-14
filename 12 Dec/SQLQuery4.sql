@@ -40,11 +40,3 @@ select * from customers;
 select * from orders;
 select * from product;
 select * from employee;
-
-
-
-
-
-
-
-
